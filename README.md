@@ -36,7 +36,7 @@ A stunning, interactive portfolio website built with React, TypeScript, Three.js
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/jadonaman/portfolio.git
 cd portfolio
 
 # Install dependencies
@@ -133,26 +133,6 @@ Replace placeholder images in:
 - 🌐 **CORS Ready** - Proper API configuration
 - 🔐 **Environment Variables** - Secure configuration management
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-```bash
-npm install -g vercel
-vercel --prod
-```
-
-### Netlify
-```bash
-npm run build
-# Upload dist/ folder to Netlify
-```
-
-### GitHub Pages
-```bash
-npm install --save-dev gh-pages
-npm run build
-npx gh-pages -d dist
-```
 
 ## 🤝 Contributing
 
@@ -200,10 +180,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Connect
 
-- **Live Demo**: [Your Portfolio URL]
-- **LinkedIn**: [Your LinkedIn]
-- **GitHub**: [Your GitHub]
-- **Email**: [Your Email]
+- **Live Demo**: [https://genesisoftwares.com/]
+- **LinkedIn**: [https://www.linkedin.com/in/jadonaman/]
+- **GitHub**: [[Your GitHub](https://github.com/JadonAman]
+- **Email**: [Iasamanjadon@gmail.com]
 
 ---
 
