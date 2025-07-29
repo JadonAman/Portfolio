@@ -2,8 +2,6 @@
 
 A stunning, interactive portfolio website built with React, TypeScript, Three.js, and Framer Motion. Features a sleek dark theme with smooth animations, 3D elements, and responsive design.
 
-![Portfolio Preview](https://via.placeholder.com/800x400/000000/FFFFFF?text=Portfolio+Preview)
-
 ## ✨ Features
 
 - **🎨 Modern Dark Design**: Full black theme with white text and elegant gradients
