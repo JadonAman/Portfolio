@@ -180,10 +180,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Connect
 
-- **Live Demo**: [https://genesisoftwares.com/]
-- **LinkedIn**: [https://www.linkedin.com/in/jadonaman/]
-- **GitHub**: [[Your GitHub](https://github.com/JadonAman]
-- **Email**: [Iasamanjadon@gmail.com]
+- **Live Demo**: https://genesisoftwares.com/
+- **LinkedIn**: https://www.linkedin.com/in/jadonaman/
+- **GitHub**: https://github.com/JadonAman
+- **Email**: Iasamanjadon@gmail.com
 
 ---
 
